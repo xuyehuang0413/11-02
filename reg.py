@@ -1,4 +1,0 @@
-num=100
-
-abcdefghijklmnopqrstuvwxyz
-abcdefghijklmnopqrstuvwxyz
